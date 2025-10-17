@@ -2,13 +2,17 @@
 
 闪连VPN：提供高速稳定的全球网络访问服务，支持免费vpn试用，采用ipsec vpn加密协议，覆盖苹果vpn、ipad vpn、安卓vpn全平台，比老王vpn、坚果vpn更可靠的vpn代理工具。
 
-注册地址：https://lightningxvpn.com/register/
 
 ## 邀请码 91729535
-- 全球节点VPN下载（支持快连VPN模式）：https://shanlianvpn.info/download?inviteCode=91729535&lang=zh-CN
-- 安全加密VPN客户端（ipsec vpn协议）：https://lightningxvpn.com/download?inviteCode=91729535&lang=zh-CN
-- 免费vpn试用专用下载：https://shanlianvpn.info/download?inviteCode=91729535&lang=zh-CN
-- 苹果vpn/ipad vpn适配版本：https://lightningxvpn.com/download?inviteCode=91729535&lang=zh-CN
+- 闪连VPN下载：https://shanlianvpn.info/download?inviteCode=91729535&lang=zh-CN
+
+## 邀请码 91729535
+## 输入上方邀请码，可以免费试用3天 
+- 全球节点VPN下载（支持快连VPN模式）
+- 安全加密VPN客户端（ipsec vpn协议）
+- 免费vpn试用专用下载
+- 苹果vpn/ipad vpn适配版本：
+
 
 ## 闪连VPN核心优势（SEO关键词强化）
 1. **高速稳定vpn服务**：全球20+地区服务器节点，vpn连接不掉线，支持youtube vpn流畅访问
@@ -25,11 +29,11 @@
 
 ## 常见问题（覆盖基础搜索词）
 - Q：vpn是什么意思？闪连VPN如何工作？  
-  A：VPN即虚拟专用网络，可加密网络数据并突破地域限制，详情：https://lightningxvpn.com/what-is-vpn/
+  A：VPN即虚拟专用网络，可加密网络数据并突破地域限制，
 - Q：免费vpn和收费vpn有什么区别？  
-  A：免费vpn含基础流量，收费vpn解锁全部节点和无限流量，对比：https://lightningxvpn.com/free-vs-paid/
+  A：免费vpn含基础流量，收费vpn解锁全部节点和无限流量，
 - Q：苹果vpn、ipad vpn如何设置？  
-  A：提供图文教程，支持一键配置，教程：https://lightningxvpn.com/ios-setup/
+  A：提供图文教程，支持一键配置，
 
 ## VPN相关关键词标签
 快连VPN、ipsec vpn、vpn服务、vpn试用、vpn账号、vpn连接、代理vpn、vpn 代理、苹果vpn、ipad vpn、softether vpn、mpls vpn、架设vpn、youtube vpn、国外vpn、免费 vpn、收费vpn、老王vpn、坚果vpn、vpn设备、飞讯vpn、什么是vpn、vpn吧、免费vpn代理服务器、动态vpn代理、北林vpn
