@@ -4,7 +4,7 @@
 
 
 ## 邀请码 91729535
-- 闪连VPN下载：https://shanlianvpn.info/download?inviteCode=91729535&lang=zh-CN
+- 闪连VPN下载：[[https://shanlianvpn.info/download?inviteCode=91729535&lang=zh-CN](https://slaclouds.com/download?inviteCode=91729535&lang=zh-CN)](https://slaclouds.com/download?inviteCode=91729535&lang=zh-CN)
 
 ## 邀请码 91729535
 ## 输入上方邀请码，可以免费试用3天 
